@@ -1,0 +1,6 @@
+*.o
+shriek-client
+shriek-server
+log.txt
+output/
+.env
