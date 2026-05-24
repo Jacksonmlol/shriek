@@ -4,13 +4,14 @@
 
 a simple chat program cuz discord sucks and i dont trust signal.
 
-![screenshot](screenshot.png)
+![screenshot](screenshot2.png)
 
 ## what is this
 
 its a chat server + client written in C. theres no voice or video or any of that nonsense.
 just text. the way god intended.
 
+the original one by boyne was made in python
 ## building
 
 you need gcc, make, and ncurses development headers.
